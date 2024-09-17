@@ -10,12 +10,18 @@ Experiment 4 focuses on the application of the Data Wrangling and Data Visualiza
 
 -- > First, I uploaded the data of the "board2.csv" file into the data frame "df"
 
--- > I then got the first and last 5 rows of the data frame using the functions "cars.head()" and "cars.tail()"
+-- > I then created 2 data frames with different parameters for each data frame:
+
+-- > (a.) For the first data frame, named "Instru", the constants were the track as "Instrumentation" and hometown as "Luzon" and the variables displayed were the "Name", "GEAS", and "Electronics"
+
+-- > (b.) For the second data frame, named "Mindy", the constants were the gemder as "Female" and hometown as "Mindanao" and the variables displayed were the "Name", "Track", "Electronics", and "Average"
+> For the average, I computed the Average of the grades from all subjects
+
 ____________________________________________________________________________________________________________
 
 *For Problem 2,*
 
--- > Utilizing the data frame "cars" from Problem 1, I performed the required operations on the data frame.
+-- > Utilizing the data frame "board2" from Problem 1, I generated a bar graph showing the relation of the features to the average obtained by the students.
 
 -- > (a.) display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.
 
