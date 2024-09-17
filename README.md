@@ -23,20 +23,12 @@ ________________________________________________________________________________
 
 -- > Utilizing the data frame "board2" from Problem 1, I generated a bar graph showing the relation of the features to the average obtained by the students.
 
--- > (a.) display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.
-
--- > (b.) Display the row that contains the ‘Model’ of ‘Mazda RX4’
-
--- > (c.) How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
-
--- > (d.) Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
-
 ## ********************* Conclusion 🤓 *********************
 
 *After conducting this experiment, I learned to:*
 
-(a.) to identify and apply different codes and functions from the Pandas Library
+(a.) to identify different codes and functions needed in cleaning and visualizing data
 
-(b.) to be able to apply and use the different codes and functions in creating a Python program using a Pandas library. 
+(b.) to apply and use  the different codes and functions in creating a Python program that will be used in data wrangling and data visualization
 ____________________________________________________________________________________________________________
 ## ********************* End 🏁 *********************
